@@ -9,7 +9,7 @@
     "start": "pcf-scripts start"
   },
   "dependencies": {
-    "@types/dropzone": "^5.0.6",
+    "@types/dropzone": "^5.7.8",
     "@types/node": "^10.12.18",
     "@types/powerapps-component-framework": "1.1.0",
     "@types/toastr": "^2.1.37",
