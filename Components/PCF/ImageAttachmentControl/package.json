@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@types/dropzone": "^5.0.6",
-    "@types/node": "^10.12.18",
+    "@types/node": "^10.17.60",
     "@types/powerapps-component-framework": "1.1.0",
     "@types/toastr": "^2.1.37",
     "dropzone": "^5.5.1",
